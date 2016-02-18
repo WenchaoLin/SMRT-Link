@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="http://www.pacb.com/wp-content/themes/pacific-biosciences/img/pacific-biosciences-logo-mobile.svg" height=40 alt="PacBio logo"/>
+</p>
+
 # SMRT-Link
 
 SMRT<sup><small>&reg;</small></sup> Link is the web-based end-to-end workflow manager for the Sequel™ System. It includes software
